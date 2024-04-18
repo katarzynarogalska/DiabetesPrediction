@@ -1,4 +1,4 @@
-# DiabetesPrediction
+# DiabetesPrediction - classification project
 # Main Info
 In this repository you will find a machine learning project, which aim is to predict the risk of diabetes. 
 Data frame for predictions is from [Kaggle diabetes health indicators](https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset/data?select=diabetes_012_health_indicators_BRFSS2015.csv).
